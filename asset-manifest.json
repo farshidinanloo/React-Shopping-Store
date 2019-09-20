@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Shopping-Store/static/css/main.b5343904.chunk.css",
+    "main.js": "/React-Shopping-Store/static/js/main.ac6f81a2.chunk.js",
+    "main.js.map": "/React-Shopping-Store/static/js/main.ac6f81a2.chunk.js.map",
+    "runtime~main.js": "/React-Shopping-Store/static/js/runtime~main.9c5c854d.js",
+    "runtime~main.js.map": "/React-Shopping-Store/static/js/runtime~main.9c5c854d.js.map",
+    "static/js/2.5fd0d6b7.chunk.js": "/React-Shopping-Store/static/js/2.5fd0d6b7.chunk.js",
+    "static/js/2.5fd0d6b7.chunk.js.map": "/React-Shopping-Store/static/js/2.5fd0d6b7.chunk.js.map",
+    "index.html": "/React-Shopping-Store/index.html",
+    "precache-manifest.5faa9be7b24986d476d191d5008de4de.js": "/React-Shopping-Store/precache-manifest.5faa9be7b24986d476d191d5008de4de.js",
+    "service-worker.js": "/React-Shopping-Store/service-worker.js",
+    "static/css/main.b5343904.chunk.css.map": "/React-Shopping-Store/static/css/main.b5343904.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/React-Shopping-Store/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/React-Shopping-Store/static/media/shopping-bag.30f07071.svg"
+  }
+}
